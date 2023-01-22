@@ -1,3 +1,5 @@
+| AppName | Updated Date | URL |
+| --- | --- | --- |
 | Adobe for All 2023  | 2022-10-19 | https://www.minorpatch.com/macapps/adobe-for-all/ |
 | AnyMP4 MTS Converter 8.2.22.97409  | 2023-01-22 | https://www.minorpatch.com/macapps/anymp4-mts-converter/ |
 | Perfectly Clear Workbench 4.3.0.2406  | 2023-01-22 | https://www.minorpatch.com/macapps/perfectly-clear-workbench/ |
